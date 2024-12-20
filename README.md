@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-protótipo">Protótipo</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -16,3 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este site visa auxilixar as pessoas gerando tabuadas conforme as suas necessidades
+
+## 🖥 Protótipo
+
+Você pode visualizar o protótipo web através [DESSE LINK](https://thiagogreiner.github.io/Tabuada/)
