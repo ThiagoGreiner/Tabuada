@@ -6,6 +6,13 @@
   <a href="#-protótipo">Protótipo</a>
 </p>
 
+<br>
+
+<p align="center">
+  <img alt="Projeto Tabuada" src=".github/preview.jpg" width="100%">
+</p>
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
